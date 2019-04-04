@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "635932994007",
+    "firebase_url": "https://testfcm-bfe81.firebaseio.com",
+    "project_id": "testfcm-bfe81",
+    "storage_bucket": "testfcm-bfe81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635932994007:android:045cd436abceeb72",
+        "android_client_info": {
+          "package_name": "com.articles.nytimes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635932994007-gqlu68ktalj10aqfejv3ja27dokf4i15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmJyV-ssiV0rUbxIHNGJ-_qGuZyag57QU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
